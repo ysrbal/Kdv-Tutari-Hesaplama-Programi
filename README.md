@@ -1,2 +1,2 @@
 # Kdv-Tutari-Hesaplama-Programi
-pratik 2
+www.patika.dev Java101 patikası pratik 2
